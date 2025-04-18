@@ -1,0 +1,9 @@
+[33m42e7341[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m chore: add environment variables configuration
+[33md7e92fc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m chore: add configuration files for Vite, Tailwind, and PostCSS
+[33md7f6fac[m feat: add weather store with API integration
+[33m56e61db[m feat: add main App component with layout
+[33m49dcd9a[m feat: add WeatherSearch component with animations
+[33m1cd80a3[m feat: add WeatherDisplay component with modern UI
+[33ma4a32a1[m ajout
+[33mcd95c93[m intsalation laravel
+[33m93f7145[m Initial commit
